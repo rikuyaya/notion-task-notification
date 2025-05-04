@@ -1,0 +1,3 @@
+Notion-Slack Notification Bot
+
+本リポジトリは、Notionのタスクページを監視し、タスクを毎朝Slack経由で通知するBotを開発するプロジェクトです。
