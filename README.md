@@ -1,0 +1,2 @@
+# notion-task-notification
+notionのタスクをslackで毎日通知してくれるbot開発
